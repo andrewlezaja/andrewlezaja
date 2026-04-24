@@ -9,7 +9,7 @@ Currently a Data Science student at NJIT, doing research in Deep Reinforcement L
 Python · LangChain · PyTorch · RAG Pipelines · LLMs · Deep RL · Git · Docker
 
 **Right now I'm thinking about:**  
-Agentic workflows, multi-agent coordination, and how graph-structured retrieval 
-outperforms flat vector search for knowledge-intensive domains.
+Agentic workflows, multi-agent coordination, graph-structured retrieval,
+and the NBA Playoffs
 
 📫 lezajaandrew@gmail.com · [LinkedIn](https://linkedin.com/in/andrew-lezaja)
