@@ -1,16 +1,15 @@
-## Hi there 👋
+# Andrew Lezaja
 
-<!--
-**andrewlezaja/andrewlezaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer building agents, pipelines, and systems.
 
-Here are some ideas to get you started:
+Currently a Data Science student at NJIT, doing research in Deep Reinforcement Learning 
+(targeting NeurIPS 2026) and building real-time multiplayer platforms used as live research testbeds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with:**  
+Python · LangChain · PyTorch · RAG Pipelines · LLMs · Deep RL · Git · Docker
+
+**Right now I'm thinking about:**  
+Agentic workflows, multi-agent coordination, and how graph-structured retrieval 
+outperforms flat vector search for knowledge-intensive domains.
+
+📫 lezajaandrew@gmail.com · [LinkedIn](https://linkedin.com/in/andrew-lezaja)
