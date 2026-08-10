@@ -10,6 +10,6 @@ Python · LangChain · PyTorch · RAG Pipelines · LLMs · Deep RL · Git · Doc
 
 **Right now I'm thinking about:**  
 Agentic workflows, multi-agent coordination, graph-structured retrieval,
-and the NBA Playoffs
+and AI Chatbots
 
 📫 lezajaandrew@gmail.com · [LinkedIn](https://linkedin.com/in/andrew-lezaja)
